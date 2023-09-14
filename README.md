@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DA183v)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DA183v)
 
-# DA183 - Explore SAP Datasphere from A to Z - DRAFT Jump Start Session
+# DA183 - Explore SAP Datasphere from A to Z - Jump Start Session
 
 ## Description
 
