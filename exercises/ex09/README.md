@@ -59,4 +59,4 @@ dimension Store
 
 You've now created reusable Business Builder Entities based on your data structures in the Data Builder.
 
-Continue to - [Exercise 10: Business Layer – Analytical Dataset ](../ex10/README.md)
+Continue to - [Exercise 10: Business Layer – Fact ](../ex10/README.md)
