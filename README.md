@@ -22,7 +22,7 @@ Find out how the SAP Datasphere solution helps the line-of-business user get the
 * Access to this GitHub repository 
 * Access to any SAP Datasphere system and in case you do not have access you can use a guided experience trial
 * You will also need a set of files for these exercises  <br>
-Download the ZIP-file from the GitHub site: :arrow_right: [DA160_Resources.zip](DA160_Resources.zip)
+Download the ZIP-file from the GitHub site: :arrow_right: [DA183_Resources.zip](DA183_Resources.zip)
 
 > :warning: **Once downloaded to your local machine, please unzip the file into a separate folder.** <br>
 > :warning: **You will need it for the exercises. So, please remember the file location of the unzipped files!**
