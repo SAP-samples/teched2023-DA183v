@@ -55,7 +55,7 @@ The others are ***Optional Exercises*** only relevant if you want to learn more 
 	
 5. **SAP Datasphere – Business Layer**
 	* [Exercises 09: Business Layer - Dimension](exercises/ex09/README.md) 
-	* [Exercises 10: Business Layer – Analytical Dataset](exercises/ex10/README.md) 
+	* [Exercises 10: Business Layer – Fact](exercises/ex10/README.md) 
 	* [Exercises 11: Business Layer – Consumption Model](exercises/ex11/README.md) 
 	
 6.  **SAP Analytics Cloud**
