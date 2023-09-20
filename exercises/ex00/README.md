@@ -24,7 +24,7 @@ The exercises will walk you through the steps using SAP Datasphere and SAP Analy
 | Sales Manager       | Details on all Sales Manager          | Dimension           | 
 | Product             | Details on the products being sold    | Dimension           | 
 
-The data is provided in CSV files in this ZIP-file: :arrow_right: [DA160_Resources.zip](../../DA160_Resources.zip)
+The data is provided in CSV files in this ZIP-file: :arrow_right: [DA183_Resources.zip](../../DA183_Resources.zip)
 
 ## The Data Model
 
