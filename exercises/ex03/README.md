@@ -22,7 +22,7 @@ So, let’s now look at the different asset types:
 
 ## Start of the exercise
 
-In this section we will start creating the tables for our sample models and then upload the raw data to those tables in [Excercise 5](../ex05/README.md). 
+In this section we will start creating the tables for our sample models and then upload the raw data to those tables in [Exercise 5](../ex05/README.md). 
 
 We will start to create the tables in SAP Datasphere.
 
