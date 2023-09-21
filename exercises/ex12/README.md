@@ -26,7 +26,7 @@ In this exercise, we will setup a story in SAP Analytics Cloud, which allows us 
 
 5. Under Widgets, select and drag the "Chart" onto the canvas.
 <br>![](images/00_00_0204.png)
-6. To select the model that you want to reference in your story<br><ul><li>select "SAPDWC" as the connection on the left panel</li><li>select your SPACE e.g. ***GE12345***</li><li>for our first example, select your ***Sales - Analytic Model***</li></ul>
+6. To select the model that you want to reference in your story<br><ul><li>select "DATASPHERE" as the connection on the left panel</li><li>select your SPACE e.g. ***GE12345***</li><li>for our first example, select your ***Sales - Analytic Model***</li></ul>
 <br>![](images/00_00_0205.png)
 
 7. Now select the newly created empty chart on the canvas.
