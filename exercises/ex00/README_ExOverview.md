@@ -13,13 +13,13 @@ We structured the overall exercise the following way:
    
    In this area you get an [overview about the business scenario & the data model](README.md) used throughout the exercises.
    
-   We also give you guidance how to [get your guided experience trial system](exercises/ex00/README_GuidedTrial.md) in case you do not have access to a SAP Datasphere system already.
+   We also give you guidance how to [get your guided experience trial system](README_GuidedTrial.md) in case you do not have access to a SAP Datasphere system already.
 	
 ## 2. **SAP Datasphere**
    
-   In this section you get an overview about your [first log on](exercises/ex01/README.md) and how you navigate in the system in case you have never used SAP Datasphere before. 
+   In this section you get an overview about your [first log on](../ex01/README.md) and how you navigate in the system in case you have never used SAP Datasphere before. 
    
-   The first **mandatory** exercise in [#02: Get to know your own Space](exercises/ex02/README.md) where you learn more about Spaces and create the ***Time Dimension*** required for your modeling in later parts of the exercise.
+   The first **mandatory** exercise in [#02: Get to know your own Space](../ex02/README.md) where you learn more about Spaces and create the ***Time Dimension*** required for your modeling in later parts of the exercise.
 	  
 ## 3. **SAP Datasphere – Data Builder**
 
