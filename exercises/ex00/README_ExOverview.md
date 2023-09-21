@@ -11,7 +11,7 @@ We structured the overall exercise the following way:
 
 ## 1. **Getting Started**
    
-   In this area you get an [overview about the business scenario & the data model](exercises/ex00/README.md) used throughout the exercises.
+   In this area you get an [overview about the business scenario & the data model](README.md) used throughout the exercises.
    
    We also give you guidance how to [get your guided experience trial system](exercises/ex00/README_GuidedTrial.md) in case you do not have access to a SAP Datasphere system already.
 	
