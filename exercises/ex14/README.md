@@ -27,7 +27,7 @@ our best salesperson is.
 
 5. Under Widgets, select and drag the "Chart" onto the canvas.
 <br>![](images/00_00_0204.png)
-6. To select the model that you want to reference in your story<br><ul><li>select "SAPDWC" as the connection on the left panel</li><li>select your SPACE e.g. ***GE12345***</li><li>For our third example, we will use the Perspective we created previously ***Revenue by Store and Product
+6. To select the model that you want to reference in your story<br><ul><li>select "DATASPHERE" as the connection on the left panel</li><li>select your SPACE e.g. ***GE12345***</li><li>For our third example, we will use the Perspective we created previously ***Revenue by Store and Product
 (Perspective)***</li></ul>
 <br>![](images/00_00_0206.png)
 
