@@ -40,7 +40,7 @@ geographic map.
 23. Click within the Search field and choose "Select other model" option
 <br>![](images/00_00_0320.png)
 
-24. To select the model that you want to reference in your story<br><ul><li>select "SAPDWC" as the connection on the left panel</li><li>select your SPACE e.g. ***GE12345***</li><li>for our first example, select your ***Sales - Analytic Model***</li></ul>
+24. To select the model that you want to reference in your story<br><ul><li>select "DATASPHERE" as the connection on the left panel</li><li>select your SPACE e.g. ***GE12345***</li><li>for our first example, select your ***Sales - Analytic Model***</li></ul>
 <br>![](images/00_00_0205.png)
 
 25. In the Builder panel, click on Add Location Dimension for the Location Dimension area
