@@ -91,7 +91,7 @@ to define a new one.
 <br>![](images/00_00_0887.png)  
 
 > :boom: ***Important*** :boom: <br> 
-> 29. You can now continue and repeat the steps 24 - 31 for the other associations:<br>- TABLE: Sales Manager [Local Table (Dimension)]<br>- VIEW: Dimension Store [View (Dimension)] – not the local table<br>- VIEW: Time Dimension – Day [View (Dimension)] – not the local table
+> 29. You can now continue and repeat the steps 24 - 28 for the other associations:<br>- TABLE: Sales Manager [Local Table (Dimension)]<br>- VIEW: Dimension Store [View (Dimension)] – not the local table<br>- VIEW: Time Dimension – Day [View (Dimension)] – not the local table
 
 30. Ensure the Association for the Sales Manager table is based on the column ***Sales Manager ID*** in both tables. 
 31. Ensure the Association for the Dimension Store View is based on the column ***Store ID*** in both tables. 
