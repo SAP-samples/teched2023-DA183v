@@ -29,7 +29,7 @@ We structured the overall exercise the following way:
 	
 ## 4. **SAP Datasphere – Business Layer**
 
-   The exercises in the Business Layer are ***optional***. <br> However, if you are interested you will learn how to create a [dimension](../ex09/README.md), an [analytical dataset](../ex10/README.md), and a [consumption model](../ex11/README.md).
+   The exercises in the Business Layer are ***optional***. <br> However, if you are interested you will learn how to create a Business Layer [dimension](../ex09/README.md), a Business Layer [fact](../ex10/README.md), and a [consumption model](../ex11/README.md).
 	
 ## 5. **SAP Analytics Cloud**
 
