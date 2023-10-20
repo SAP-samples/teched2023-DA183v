@@ -72,47 +72,45 @@ Business Catalog.</li></ul>
 <br>![](images/00_00_0087.png)  
   
 20. Repeat the steps for the Attributes ***Discount***, ***Revenue***, and ***Cost***.
-21. Now ensure you select the final output node called ***Sales View – Fact***.
-22. Navigate to the Details on the right-hand side.
-23. Scroll down to the Associations.
-24. Click the “+” sign to add a new Association.
+21. Scroll down to the Associations.
+22. Click the “+” sign to add a new Association.
 <br>![](images/00_00_0088.png) 
   
-25. Select the option Association.
-26. You are being presented with the list of Tables and Views from your Space.
-27. Select the entry for TABLE ***Product*** [Local Table (Dimension)].
-28. Click ***OK***.
+23. Select the option Association.
+24. You are being presented with the list of Tables and Views from your Space.
+25. Select the entry for TABLE ***Product*** [Local Table (Dimension)].
+26. Click ***OK***.
 <br>![](images/00_00_0089.png)   
 
-29. Ensure the Association is based on the column Product ID in both tables. In case the Association is not
+27. Ensure the Association is based on the column Product ID in both tables. In case the Association is not
 suggested or is defined on another column, you can delete the join and use a simple drag and drop motion
 to define a new one.
 <br>![](images/00_00_0886.png)  
 
-30. Click on the icon (top right corner) to collapse the Details panel.
-31. In the Details panel, click on the “Sales View - Fact” option to navigate back to the main Properties window.
+28. Click on the icon (top right corner) to collapse the Details panel.
+29. In the Details panel, click on the “Sales View - Fact” option to navigate back to the main Properties window.
 <br>![](images/00_00_0887.png)  
 
 > :boom: ***Important*** :boom: <br> 
-> 32. You can now continue and repeat the steps 24 - 31 for the other associations:<br>- TABLE: Sales Manager [Local Table (Dimension)]<br>- VIEW: Dimension Store [View (Dimension)] – not the local table<br>- VIEW: Time Dimension – Day [View (Dimension)] – not the local table
+> 30. You can now continue and repeat the steps 24 - 31 for the other associations:<br>- TABLE: Sales Manager [Local Table (Dimension)]<br>- VIEW: Dimension Store [View (Dimension)] – not the local table<br>- VIEW: Time Dimension – Day [View (Dimension)] – not the local table
 
-33. Ensure the Association for the Sales Manager table is based on the column ***Sales Manager ID*** in both tables. 
-34. Ensure the Association for the Dimension Store View is based on the column ***Store ID*** in both tables. 
-35. Ensure the Association for the time dimension is based on the columns ***Transaction Date*** and ***Date***.
+31. Ensure the Association for the Sales Manager table is based on the column ***Sales Manager ID*** in both tables. 
+32. Ensure the Association for the Dimension Store View is based on the column ***Store ID*** in both tables. 
+33. Ensure the Association for the time dimension is based on the columns ***Transaction Date*** and ***Date***.
  
-36. In the Details panel now, click on the “More” option to navigate back to the main Properties window and
+34. In the Details panel now, click on the “More” option to navigate back to the main Properties window and
 select the Fact option.
-37. ***Deploy*** your View. (Deploying your view automatically saves your view)
-38. You will be asked to confirm and ***Save*** the Business Name and Technical Name.
+35. ***Deploy*** your View. (Deploying your view automatically saves your view)
+36. You will be asked to confirm and ***Save*** the Business Name and Technical Name.
 
-39. Once the view has been successfully deployed, you can now create your analytic model from the Model Properties screen.
+37. Once the view has been successfully deployed, you can now create your analytic model from the Model Properties screen.
 <br>![](images/00_00_0888.png)
 
-40. You should now be within your Analytic Model as depicted below. You're able to see the sales view and its associated dimensions that you added previously. 
+38. You should now be within your Analytic Model as depicted below. You're able to see the sales view and its associated dimensions that you added previously. 
 <br>![](images/00_00_0889.png)
 
-41. ***Deploy*** your Analytic Model.
-42. Enter ***Sales - Analytic Model*** as Business Name and ***Save***. 
+39. ***Deploy*** your Analytic Model.
+40. Enter ***Sales - Analytic Model*** as Business Name and ***Save***. 
 
 ## Summary
 
