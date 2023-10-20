@@ -87,30 +87,29 @@ suggested or is defined on another column, you can delete the join and use a sim
 to define a new one.
 <br>![](images/00_00_0886.png)  
 
-28. Click on the icon (top right corner) to collapse the Details panel.
-29. In the Details panel, click on the “Sales View - Fact” option to navigate back to the main Properties window.
+28. In the Details panel, click on the “Sales View - Fact” option to navigate back to the main Properties window.
 <br>![](images/00_00_0887.png)  
 
 > :boom: ***Important*** :boom: <br> 
-> 30. You can now continue and repeat the steps 24 - 31 for the other associations:<br>- TABLE: Sales Manager [Local Table (Dimension)]<br>- VIEW: Dimension Store [View (Dimension)] – not the local table<br>- VIEW: Time Dimension – Day [View (Dimension)] – not the local table
+> 29. You can now continue and repeat the steps 24 - 31 for the other associations:<br>- TABLE: Sales Manager [Local Table (Dimension)]<br>- VIEW: Dimension Store [View (Dimension)] – not the local table<br>- VIEW: Time Dimension – Day [View (Dimension)] – not the local table
 
-31. Ensure the Association for the Sales Manager table is based on the column ***Sales Manager ID*** in both tables. 
-32. Ensure the Association for the Dimension Store View is based on the column ***Store ID*** in both tables. 
-33. Ensure the Association for the time dimension is based on the columns ***Transaction Date*** and ***Date***.
+30. Ensure the Association for the Sales Manager table is based on the column ***Sales Manager ID*** in both tables. 
+31. Ensure the Association for the Dimension Store View is based on the column ***Store ID*** in both tables. 
+32. Ensure the Association for the time dimension is based on the columns ***Transaction Date*** and ***Date***.
  
-34. In the Details panel now, click on the “More” option to navigate back to the main Properties window and
+33. In the Details panel now, click on the “More” option to navigate back to the main Properties window and
 select the Fact option.
-35. ***Deploy*** your View. (Deploying your view automatically saves your view)
-36. You will be asked to confirm and ***Save*** the Business Name and Technical Name.
+34. ***Deploy*** your View. (Deploying your view automatically saves your view)
+35. You will be asked to confirm and ***Save*** the Business Name and Technical Name.
 
-37. Once the view has been successfully deployed, you can now create your analytic model from the Model Properties screen.
+36. Once the view has been successfully deployed, you can now create your analytic model from the Model Properties screen.
 <br>![](images/00_00_0888.png)
 
-38. You should now be within your Analytic Model as depicted below. You're able to see the sales view and its associated dimensions that you added previously. 
+37. You should now be within your Analytic Model as depicted below. You're able to see the sales view and its associated dimensions that you added previously. 
 <br>![](images/00_00_0889.png)
 
-39. ***Deploy*** your Analytic Model.
-40. Enter ***Sales - Analytic Model*** as Business Name and ***Save***. 
+38. ***Deploy*** your Analytic Model.
+39. Enter ***Sales - Analytic Model*** as Business Name and ***Save***. 
 
 ## Summary
 
