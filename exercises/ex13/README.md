@@ -78,6 +78,6 @@ longitude and latitude values for the store dimension.
 
 ## Summary
 
-You've now created your second story based on the SAPDWC connection to your data models in SAP Datasphere. 
+You've now created your second story based on the DATASPHERE connection to your data models in SAP Datasphere. 
 
 Continue to - [Exercise 14: Best Salesperson (requires Exercise 11 to be completed) ](../ex14/README.md)
